@@ -1,2 +1,3 @@
 # Tweet_bot
- twitter bot for automatic CRUD operations
+ Twitter service using Twitter API for performing CRUD operations.
+ This is a part of Twitter Assignment for CMPE-272 class.
